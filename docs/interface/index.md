@@ -3,7 +3,7 @@
 
 >Внешний вид калькулятора
 
-![Форма](/sippoon-program/images/1.jpg)  
+![Форма](/sippoon/images/1.jpg)  
 <center>Форма</center>
 
 (c) MPT-pi, 2020 г. 
